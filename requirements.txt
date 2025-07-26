@@ -1,4 +1,4 @@
-aiosqlite==0.20.0
+aiosqlite==0.21.0
 async-pymongo==0.1.6
 dnspython==2.6.1
 Hydrogram==0.2.0
